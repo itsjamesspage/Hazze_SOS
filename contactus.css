@@ -1,0 +1,248 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.firstContent {
+    padding-top: 30px;
+    background-image: url(img/hero-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: -50px;
+}
+
+.navbar {
+    background-color: #221F1F;
+    justify-content: space-around;
+}
+
+.navbar ul li a {
+    margin-left: 30px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.chsection {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: #221F1F;
+}
+
+.chsection a {
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #fff;
+}
+
+.chsection span {
+    color: gray;
+}
+
+.chsection h4 {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+
+.contact {
+    margin-left: 150px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.contactText {
+    padding-bottom: 35px;
+}
+.contactEnd {
+    display: flex;
+    background-color: #221F1F;
+    color: #fff;
+}
+.contactEnd p {
+    font-size: 20px;
+    font-weight: 700;
+    color: gray;
+}
+.contactEnd h6 {
+    font-size: 18px;
+    font-weight: 500;
+}
+.location {
+    display: flex;
+    padding-bottom: 45px;
+}
+.location ion-icon {
+    border-radius: 50%;
+    width: 70px;
+    height: 60px;
+    color: yellow;
+    margin-right: 30px;
+}
+.contactEnd img {
+    border-radius:50%;
+    width: 65px;
+    height: 75px;
+}
+.phone {
+    display: flex;
+    padding-bottom: 45px;
+}
+.phone ion-icon {
+    border-radius: 50%;
+    width: 70px;
+    height: 60px;
+    color: yellow;
+    margin-right: 30px;
+
+}
+.email {
+    display: flex;
+    padding-bottom: 45px;
+}
+.email ion-icon {
+    border-radius: 50%;
+    width: 70px;
+    height: 60px;
+    color: yellow;
+    margin-right: 30px;
+}
+.commentSection {
+    margin-left: 150px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.inputs input{
+    height: 50px;
+    width: 250px; 
+    margin-right: 20px;
+    padding-left: 10px;
+}
+ .message  input{
+    height: 100px;
+    width: 524px; 
+    margin-right: 20px;
+    padding-left: 10px;
+    margin-top: 30px;
+}
+.contactEnd button{ 
+    background-color: yellow;
+    color: blue;
+    font-size: 18px;
+    font-weight: 600;
+    height: 45px;
+    width: 180px;
+    margin-top: 50px;
+}
+
+
+
+.final {
+    background-color: black;
+}
+
+.aboutEnd {
+    padding-left: 100px;
+    padding-top: 75px;
+    padding-bottom: 40px;
+    display: flex;
+}
+
+.one {}
+
+.one p {
+    margin: 25px 0px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    width: 220px;
+}
+
+.one a {
+    color: #fff;
+}
+
+.two {
+    padding-bottom: 30px;
+    margin-left: 150px;
+}
+
+.two h5 {
+    font-weight: 600;
+    font-size: 24px;
+    color: #fff;
+}
+
+.two a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+}
+
+.three {
+    margin-left: 150px;
+}
+
+.three h5 {
+    font-weight: 600;
+    font-size: 24px;
+    color: #fff;
+}
+
+.three p {
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    width: 220px;
+    margin: 25px 0px;
+}
+
+.three input {
+    padding-left: 60px;
+    background-color: #221F1F;
+    width: 250px;
+    height: 50px;
+    color: white;
+    border-color: #fff;
+    margin-bottom: 10px;
+}
+
+.three button {
+    width: 253px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: yellow;
+    color: blue;
+}
+
+.four {
+    margin-left: 150px;
+}
+
+.four h5 {
+    font-weight: 600;
+    font-size: 24px;
+    color: #fff;
+    padding-bottom: 45px;
+}
+
+.final {
+    padding-bottom: 45px;
+}
+
+.final p {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+}

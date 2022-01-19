@@ -1,0 +1,208 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.firstContent {
+    padding-top: 30px;
+    /* background-image: url(img/hero-bg.jpg); */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: -50px;
+}
+
+.navbar {
+    background-color: #221F1F;
+    justify-content: space-around;
+}
+
+.navbar ul li a {
+    margin-left: 30px;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+
+.ghsection {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: #221F1F;
+}
+
+.ghsection a {
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #fff;
+}
+
+.ghsection span {
+    color: gray;
+}
+
+.ghsection h4 {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.gallery-section {
+	background: #222222;
+	padding-bottom: 80px;
+}
+
+.gallery-section .gallery-controls {
+	text-align: center;
+	margin-bottom: 55px;
+}
+
+.gallery-section .gallery-controls li {
+	list-style: none;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 700;
+	color: #ffffff;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin-right: 55px;
+	cursor: pointer;
+}
+
+.gallery-section .gallery-controls  li.active {
+	color: yellow;
+}
+
+.gallery-section .gallery-controls  li:last-child {
+	margin-right: 0;
+}
+
+.gallery-section .gs-item {
+	margin-bottom: 30px;
+}
+
+.gallery-section .gs-item img {
+	min-width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.final {
+    background-color: black;
+}
+
+.aboutEnd {
+    padding-left: 100px;
+    padding-top: 75px;
+    padding-bottom: 40px;
+    display: flex;
+}
+
+.one {}
+
+.one p {
+    margin: 25px 0px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    width: 220px;
+}
+
+.one a {
+    color: #fff;
+}
+
+.two {
+    padding-bottom: 30px;
+    margin-left: 150px;
+}
+
+.two h5 {
+    font-weight: 600;
+    font-size: 24px;
+    color: #fff;
+}
+
+.two a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+}
+
+.three {
+    margin-left: 150px;
+}
+
+.three h5 {
+    font-weight: 600;
+    font-size: 24px;
+    color: #fff;
+}
+
+.three p {
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    width: 220px;
+    margin: 25px 0px;
+}
+
+.three input {
+    padding-left: 60px;
+    background-color: #221F1F;
+    width: 250px;
+    height: 50px;
+    color: white;
+    border-color: #fff;
+    margin-bottom: 10px;
+}
+
+.three button {
+    width: 253px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: yellow;
+    color: blue;
+}
+
+.four {
+    margin-left: 150px;
+}
+
+.four h5 {
+    font-weight: 600;
+    font-size: 24px;
+    color: #fff;
+    padding-bottom: 45px;
+}
+
+.final {
+    padding-bottom: 45px;
+}
+
+.final p {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+}
